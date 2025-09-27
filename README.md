@@ -1,4 +1,4 @@
-# 🏏 FIFS Sports Data Gameathon 2.0 – Fantasy Sports AI/ML Strategy
+# 🏏 Fantasy Sports AI/ML Strategy
 
 <table>
 <tr>
@@ -58,22 +58,9 @@ The primary objective of this project is to **design and implement a robust AI/M
 
 ---
 
-
-## 🤝 About FIFS
-
-The **Federation of Indian Fantasy Sports (FIFS)** is India’s leading industry body committed to the **self-regulation, growth, and innovation** of the Fantasy Sports ecosystem. By hosting the **FIFS Sports Data Gameathon**, FIFS aims to catalyze technological advancement in Fantasy Sports through collaboration with academic talent and the Government of India.
-
----
-
-## 📢 Government Collaboration
-
-This initiative is **jointly launched by the Ministry of Information & Broadcasting (MIB)** and **FIFS**, reflecting a shared vision to promote data-driven innovation and entrepreneurship in the realm of online sports engagement.
-
----
-
 ## 📬 Contact & Credits
 
 - 👨‍💻 Team Name: *[C Block Warriors]*
 - 🏫 Institute: Indian Institute of Technology, Guwahati
-- ✉️ Contact: [a.ketan@iitg.ac.in]
+- ✉️ Contact: [y.harishankar@iitg.ac.in]
 
